@@ -1,0 +1,7 @@
+
+pandas
+numpy
+google-cloud-bigquery==2.34.4
+
+xmltodict
+requests==2.31.0
